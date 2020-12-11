@@ -7,4 +7,4 @@ My solutions for [rosalind problems](http://rosalind.info/problems/list-view/)
 
 |	Problem	|	C++ Solution	|	Python Solution	|
 |	--------- 	|	--------- 	|	--------- 	|
-|	[Couting DNA Nucleiotides](http://rosalind.info/problems/dna/)	|	[countingDNA.cpp](https://github.com/MilanCalegari/RosalindSolutions/blob/main/CppSolutions/countingDNA.cpp)	|	[countingDNA.py](https://github.com/MilanCalegari/RosalindSolutions/tree/main/PythonSolutions)	|	
+|	[Couting DNA Nucleiotides](http://rosalind.info/problems/dna/)	|	[countingDNA.cpp](https://github.com/MilanCalegari/RosalindSolutions/blob/main/CppSolutions/countingDNA.cpp)	|	[countingDNA.py](https://github.com/MilanCalegari/RosalindSolutions/blob/main/PythonSolutions/coutingDNA.py)	|	
