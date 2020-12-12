@@ -17,7 +17,7 @@ def recursion_fast(n, k, computed={0:1, 1:1}):
 
 def main():
     n,k = input().split()
-    print(recursion_fast(int(n),int(k)))
+    print(recursion_naive(int(n),int(k)))
 
 if __name__ == '__main__':
     main()
